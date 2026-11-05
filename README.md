@@ -1,18 +1,25 @@
-### Hi there 👋
+<h2 align="center">Hi, I'm Lysander 👋</h2>
 
-<!--
-**opreader/opreader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">全栈开发 · 服务端 / 爬虫逆向 / 音视频流媒体 · 广州<br><a href="https://lysander.vercel.app">lysander.vercel.app</a></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,py,react,nodejs,bun,flutter,postgres,redis,docker,linux&perline=11" alt="Tech stack">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" height="180">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language" height="180">
+  </picture>
+</p>
 
-[![opreader's github stats](https://github-readme-stats.vercel.app/api?username=Lysander66)](https://github.com/Lysander66)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lysander66/Lysander66/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Lysander66/Lysander66/output/github-snake.svg" alt="Contribution snake">
+  </picture>
+</p>
