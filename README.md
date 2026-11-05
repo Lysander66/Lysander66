@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Lysander 👋</h2>
 
-<p align="center">全栈开发 · 服务端 / AI Agent / 大模型部署与推理 / 音视频流媒体 · 海南</p>
+<p align="center">全栈开发 · 服务端 / AI Agent / 大模型部署与推理 / 音视频流媒体</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,py,react,nodejs,bun,flutter,postgres,redis,docker,linux&perline=11" alt="Tech stack">
